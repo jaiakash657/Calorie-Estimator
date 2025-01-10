@@ -1,11 +1,13 @@
 # Food Recognition and Calorie Estimation
 
 ## Project Overview
+
 **Food Recognition and Calorie Estimation** is a web-based platform designed to empower users to make informed dietary choices. The platform allows users to search for food items by name, providing instant calorie and nutritional information while offering the flexibility to customize portion sizes. Unlike other solutions that rely on AI-based image recognition, this tool focuses on efficient, text-based searches for simplicity and accuracy.
 
 ---
 
 ## Key Features
+
 - **Text-Based Search**: Users can search for food items by name, with suggestions for similar items if no exact match is found.
 - **Nutritional Insights**: Displays comprehensive calorie and nutritional data, including breakdowns of proteins, fats, and carbohydrates.
 - **Portion Size Customization**: Users can adjust serving sizes to receive personalized calorie estimates.
@@ -14,6 +16,7 @@
 ---
 
 ## Modules
+
 1. **Search Module**:
    - Queries the database for matching food items based on user input.
    - Suggests alternatives if the exact food item is unavailable.
@@ -31,6 +34,7 @@
 ---
 
 ## Development Plan
+
 The project is implemented in four distinct phases:
 
 1. **Phase I**:  
